@@ -1,0 +1,10 @@
+Package: sentiment
+Type: Package
+Title: Forked from timjurka/sentiment
+Version: 0.1
+Date: 2015-11-29
+Author: Forked from timjurka/sentiment
+Maintainer: Forked from timjurka/sentiment
+Description: Forked from timjurka/sentiment
+License: Forked from timjurka/sentiment
+LazyData: TRUE
